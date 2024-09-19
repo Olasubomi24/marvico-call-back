@@ -1,0 +1,4 @@
+RewriteEngine On    # Turn on the rewriting engine
+RewriteRule ^marvico_food_settlement marvico_food_settlement.php [NC,L]
+
+

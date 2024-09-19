@@ -1,0 +1,858 @@
+[30-Aug-2022 15:59:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'morgpays_mosquepayapi'@'localhost' to database ''morgpays_mosquepayapi' in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 14
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 161
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "accountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 162
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "settlementId" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 166
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "tranRemarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "sourceAccountName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "sourceBankName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[26-Feb-2024 14:01:37 UTC] PHP Warning:  Undefined array key "tranDateTime" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 161
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "accountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 162
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "settlementId" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 166
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "tranRemarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "sourceAccountName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "sourceBankName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[26-Feb-2024 16:30:36 UTC] PHP Warning:  Undefined array key "tranDateTime" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 161
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "accountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 162
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "settlementId" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 166
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "tranRemarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "sourceAccountName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "sourceBankName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[26-Feb-2024 16:30:37 UTC] PHP Warning:  Undefined array key "tranDateTime" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 161
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "accountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 162
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "settlementId" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 166
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "tranRemarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "sourceAccountName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "sourceBankName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[27-Feb-2024 08:55:15 UTC] PHP Warning:  Undefined array key "tranDateTime" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 163
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[27-Feb-2024 10:47:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 163
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[27-Feb-2024 10:49:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[27-Feb-2024 11:35:25 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[27-Feb-2024 11:35:52 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[29-Feb-2024 14:36:46 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[29-Feb-2024 15:09:41 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[29-Feb-2024 16:16:17 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[04-Mar-2024 12:43:41 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[11-Mar-2024 09:23:43 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 174
+[11-Mar-2024 09:26:20 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 242
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 161
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "accountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 162
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 166
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "settlementId" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "tranRemarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "sourceAccountName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "sourceBankName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[11-Mar-2024 09:34:13 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 173
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 161
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "accountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 162
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 166
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "settlementId" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 168
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "tranRemarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "sourceAccountName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 170
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "sourceBankName" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 171
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "sourceAccountNumber" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 172
+[11-Mar-2024 09:35:30 UTC] PHP Warning:  Undefined array key "transactionAmount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 173
+[11-Mar-2024 09:36:58 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:05:19 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:16:28 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:18:24 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:18:28 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:19:54 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:21:14 UTC] PHP Warning:  Undefined array key "completed_status" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_tmc_due_account() in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:167
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#1 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:26:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_tmc_due_account() in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:167
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#1 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:26:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_tmc_due_account() in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:167
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#1 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_tmc_due_account() in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:167
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#1 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 167
+[11-Mar-2024 11:45:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114531','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:45:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114535','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:45:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114540','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:46:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114618','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:46:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114627','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:46:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114640','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:47:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114704','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:48:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311114842','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:214
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(214): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 214
+[11-Mar-2024 11:58:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','20240311115841','OMOBOLAJI MISTURAH ADEYEMI', 'VIRTUAL_ACCOUNT','successful',' at line 2 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:215
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(215): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 215
+[11-Mar-2024 12:04:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:215
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(215): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 215
+[11-Mar-2024 12:15:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '2024022616103773601832419' for key 'PRIMARY' in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:216
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(216): mysqli_query(Object(mysqli), 'INSERT into tmc...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/tmc_payment_settlement.php(13): rest->tmc_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 216
+[11-Mar-2024 12:33:01 UTC] PHP Warning:  Undefined variable $due_reference_dd in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 200
+[11-Mar-2024 12:38:52 UTC] PHP Warning:  A non-numeric value encountered in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 200
+[13-Apr-2024 07:19:46 UTC] PHP Warning:  Undefined array key "campaign_reference" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 106
+[13-Apr-2024 07:19:46 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:21:05 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:21:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:21:05')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:21:38 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:21:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:21:38')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:24:34 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:24:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:24:34')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:27:42 UTC] PHP Warning:  Undefined array key "campaign_reference" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 106
+[13-Apr-2024 07:27:42 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:28:53 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:28:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:28:53')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:33:59 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:33:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:33:59')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:34:09 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:34:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:34:09')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:35:33 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:35:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:35:33')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:39:40 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:39:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:39:40')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:53:28 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:53:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:53:28')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:55:21 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:55:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:55:21')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:55:28 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:55:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:55:28')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 07:58:01 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 07:58:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 07:58:01')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[13-Apr-2024 08:05:02 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[13-Apr-2024 08:05:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 08:05:02')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[13-Apr-2024 10:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:49:19 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:49:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:49:19')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:49:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:49:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:49:24')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:50:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:50:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:50:22')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:50:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:50:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:50:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:50:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:50:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:50:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:50:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:50:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:50:27')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:52:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:52:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:52:28')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:52:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:52:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:52:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:52:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:52:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:52:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:52:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:52:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:52:33')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:55:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:55:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:55:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:55:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:55:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:55:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:55:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:55:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:55:56')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:56:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:56:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:56:01')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:58:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:58:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:58:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:58:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:58:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:58:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:58:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:58:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:58:27')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 10:58:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 10:58:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 10:58:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 10:58:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 10:58:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 10:58:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 10:58:32 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 10:58:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 10:58:32')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:01:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:01:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:01:15')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:01:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:01:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:01:20')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:03:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:03:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:03:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:03:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:03:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:03:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:03:46 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:03:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:03:46')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:03:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:03:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:03:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:03:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:03:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:03:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:03:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:03:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:03:51')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:05:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:05:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:05:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:05:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:05:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:05:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:05:51 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:05:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:05:51')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:05:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:05:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:05:56')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:06:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:06:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:06:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:06:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:06:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:06:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:06:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:06:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:06:01')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:09:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:09:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:09:10')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:09:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:09:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:09:15')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:09:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:09:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:09:21')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:13:40 UTC] PHP Warning:  Undefined array key "campaign_reference" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 145
+[13-Apr-2024 11:13:45 UTC] PHP Warning:  Undefined array key "campaign_reference" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 145
+[13-Apr-2024 11:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:22:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:22:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:22:29')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:22:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:22:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:22:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:22:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:22:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:22:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:22:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:22:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:22:34')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:22:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:22:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:22:39')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:25:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:25:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:25:33')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:28:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:28:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:28:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:28:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:28:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:28:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:28:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:28:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:28:57')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:29:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:29:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:29:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:29:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:29:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:29:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:29:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:29:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:29:02')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 144
+[13-Apr-2024 11:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 148
+[13-Apr-2024 11:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 149
+[13-Apr-2024 11:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 150
+[13-Apr-2024 11:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 151
+[13-Apr-2024 11:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 152
+[13-Apr-2024 11:30:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 153
+[13-Apr-2024 11:30:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-04-13 11:30:40')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:169
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(169): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/settlements.php(13): rest->settlement_details(NULL)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 169
+[13-Apr-2024 11:32:38 UTC] PHP Warning:  Undefined array key "campaign_reference" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 145
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 105
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 109
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 110
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 111
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 112
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 113
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 114
+[16-May-2024 08:21:44 UTC] PHP Warning:  Undefined array key "main_body" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 115
+[16-May-2024 08:21:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2024-05-16 08:21:44')' at line 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:129
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(129): mysqli_query(Object(mysqli), 'insert into cam...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/payment_settlement.php(13): rest->payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 129
+[23-Jul-2024 14:48:57 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 222
+[23-Jul-2024 14:48:57 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 228
+[23-Jul-2024 14:48:57 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 229
+[23-Jul-2024 14:48:57 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 230
+[23-Jul-2024 14:48:57 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 231
+[23-Jul-2024 14:48:57 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 232
+[23-Jul-2024 14:48:57 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 233
+[23-Jul-2024 14:52:14 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 222
+[23-Jul-2024 14:52:14 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 228
+[23-Jul-2024 14:52:14 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 229
+[23-Jul-2024 14:52:14 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 230
+[23-Jul-2024 14:52:14 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 231
+[23-Jul-2024 14:52:14 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 232
+[23-Jul-2024 14:52:14 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 233
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 340
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 346
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 347
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 348
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 349
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 350
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 351
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:53:27 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:53:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 340
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 346
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 347
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 348
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 349
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 350
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 351
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:54:42 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:54:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 340
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 346
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 347
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 348
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 349
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 350
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 351
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:54:46 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:54:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 340
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 346
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 347
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 348
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 349
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 350
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 351
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:55:43 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:55:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined array key "account_no" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 340
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined array key "transaction_id" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 346
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined array key "tran_remarks" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 347
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined array key "source_account_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 348
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined array key "source_bank_name" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 349
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined array key "source_account_number" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 350
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined array key "amount" in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 351
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:56:31 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 14:56:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 15:06:00 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:06:00 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:06:00 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:06:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 15:51:56 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:51:56 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:51:56 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:51:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 15:54:35 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:54:35 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:54:35 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:54:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
+[23-Jul-2024 15:54:42 UTC] PHP Warning:  Undefined variable $firstname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:54:42 UTC] PHP Warning:  Undefined variable $lastname in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:54:42 UTC] PHP Warning:  Undefined variable $email in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 390
+[23-Jul-2024 15:54:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php:392
+Stack trace:
+#0 /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php(392): mysqli_query(Object(mysqli), 'INSERT into ifa...')
+#1 /home1/morgpays/public_html/mosquepay_callback_live/api/ifako_ijaye_payment_settlement.php(13): rest->ifako_ijaye_payment_settlement_details(Array)
+#2 {main}
+  thrown in /home1/morgpays/public_html/mosquepay_callback_live/class/rest.php on line 392
